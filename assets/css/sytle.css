@@ -1,19 +1,18 @@
 .jumbotron {
-	background-image: url("http://xboxhut.com/wp-content/uploads/2016/06/black-and-white-brick-wall-background-breakfast-nook-gym.jpg");
-	color: white;
+  background-image: url("https://images.unsplash.com/photo-1470133294210-94114cf67cc6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80");
+  color: white;
 }
 
 body {
-	background-image: url("https://st2.depositphotos.com/2222964/5193/v/950/depositphotos_51933581-stock-illustration-city-buildings-background.jpg");
+  background-image: url("https://images.unsplash.com/photo-1515694155821-5d0468e19b12?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2734&q=80");
 }
 
 .panel-heading {
-	background-color: blue;
+  background-color: blue;
 }
 
 .panel > .panel-heading {
-    background-image: none;
-    background-color: #ddd;
-    color: grey;
-
+  background-image: none;
+  background-color: #ddd;
+  color: grey;
 }
