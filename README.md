@@ -22,4 +22,4 @@ The Train Scheduler Application begins with a form that requests the train name,
 
 ## Gifs
 
-![Train Scheduler Runthrough](https://media.giphy.com/media/Y084ndbpCly5lNtme2/giphy.gif)
+![Train Scheduler Runthrough](https://media.giphy.com/media/Y084ndbpCly5lNtme2/giphy.gif`)

@@ -1,10 +1,10 @@
 .jumbotron {
-  background-image: url("https://images.unsplash.com/photo-1470133294210-94114cf67cc6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80");
+  background-image: url("../Images/subway\ train\ title\ img.jpeg");
   color: white;
 }
 
 body {
-  background-image: url("https://images.unsplash.com/photo-1515694155821-5d0468e19b12?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2734&q=80");
+  background-image: url("../Images/NYC\ background\ img.jpeg");
 }
 
 .panel-heading {
